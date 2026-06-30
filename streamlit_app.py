@@ -10,7 +10,7 @@ st.title("Bulk SMS API")
 
 st.markdown("""
 A practical guide explaining how developers and businesses use a **Bulk SMS API** to integrate messaging into websites, mobile applications, CRM platforms, ERP systems, and enterprise software.
-bulk sms api organizations to automate customer communication including notifications, OTP verification, appointment reminders, payment confirmations, delivery updates, and marketing campaigns.
+[Bulk SMS API](https://nigeriasms.net/services/bulk-sms) organizations to automate customer communication including notifications, OTP verification, appointment reminders, payment confirmations, delivery updates, and marketing campaigns.
 
 ---
 
